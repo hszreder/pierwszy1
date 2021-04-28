@@ -1,2 +1,3 @@
-# pierwszy1
-first repository
+#pierwszy projekt Hani
+
+:)
